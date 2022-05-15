@@ -3,7 +3,7 @@
 ## Create an authentication with Java
 
 ## Illustration 
-![illustration](img.png)
+![illustration](src/img.png)
 
 ## Languages/Tools
 - Java
